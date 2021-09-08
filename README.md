@@ -51,4 +51,4 @@ According to [REP-2008's proposal](https://github.com/ros-infrastructure/rep/pul
 
 ### Quality Declaration
 
-This package claims to be in the **Quality Level 4** category, see the [Quality Declaration](./QUALITY_DECLARATION.md) for more details.
+No quality is claimed according to [REP-2004](https://www.ros.org/reps/rep-2004.html). This package should only be used in workstations to produced valid firmware for the targeted hardware.

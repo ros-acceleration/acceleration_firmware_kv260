@@ -2,6 +2,23 @@
 Changelog for package acceleration_firmware_kv260
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.9.0 (2022-02-16)
+-------------------
+* Firmware release for Vitis 2021.2 including Yocto PetaLinux support
+
+0.8.0 (2021-12-14)
+-------------------
+* Add Python 3 bindings for lttng-tools, integration with tracetools
+* Fix absolute paths in cmake file created by orocos_kdl in Yocto SDK
+
+0.7.0 (2021-10-22)
+-------------------
+* Add LTTng support for vanilla and PREEMPT_RT kernels
+* Enhance ROS 2 Foxy with LTTng instrumentation
+* Added RealSense libraries and ROS 2 packages
+* Update rootfs with PREEMT_RT modules, remove leftovers
+* Other minor changes
+
 0.6.0 (2021-09-01)
 -------------------
 * Update mixins to set by default install-kv260
@@ -17,7 +34,7 @@ Changelog for package acceleration_firmware_kv260
 
 0.4.0 (2021-05-11)
 -------------------
-* Renamed to acceleration_firmware_xilinx
+* Renamed to acceleration_firmware_kv260
 * Add new target for producing debug symbols for ZCU102
 * Minor adjustments
 

@@ -2,6 +2,17 @@
 Changelog for package acceleration_firmware_kv260
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.0.0 (2022-05-24)
+-------------------
+* Add ament_cmake_gen_version_h to rootfs and sysroot
+* Towards 1.0.0, initial firmware updates
+
+0.9.1 (2022-05-16)
+-------------------
+* Enable build-time flag, remove acceleration_firmware
+* Update README
+* Remove old sdk and PetaLinux rootfs
+
 0.9.0 (2022-02-16)
 -------------------
 * Firmware release for Vitis 2021.2 including Yocto PetaLinux support

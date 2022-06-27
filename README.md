@@ -13,7 +13,7 @@ This repository provides AMD/Xilinx's firmware artifacts for the KV260 board mea
 
 According to [REP-2008's proposal](https://github.com/ros-infrastructure/rep/pull/324).
 
-| Capability | KRS `alpha`[^1] | KRS `beta`[^2] | KRS `1.0`[^3] |
+| Capability | KRS `alpha`[^1] | KRS `beta`[^2] | KRS `1.0`[^3] (*Yocto/PetaLinux*) |
 |------------|-------------|------------|-------------|
 | **`1.` Kernel Levels** |  |  |   |
 | [`1.i` level I kernels](https://ros.org/reps/rep-2008.html#i) | ✓ | ✓ | ✓ |

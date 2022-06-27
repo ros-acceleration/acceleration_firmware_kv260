@@ -2,8 +2,11 @@
 Changelog for package acceleration_firmware_kv260
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1.0.0 (2022-05-24)
+1.0.0 (2022-06-27)
 -------------------
+* Update artifacts in alignment with Vitis 2022.1 changes
+* Update Vitis base platform to 2022.1
+* Various fixes, update README, get KRS basic repos to build
 * Add ament_cmake_gen_version_h to rootfs and sysroot
 * Towards 1.0.0, initial firmware updates
 

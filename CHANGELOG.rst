@@ -2,6 +2,10 @@
 Changelog for package acceleration_firmware_kv260
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.0 (2022-10-04)
+-------------------
+* Move to Ubuntu 22.04 as base image, adapt CMake macros
+
 1.0.0 (2022-06-27)
 -------------------
 * Update artifacts in alignment with Vitis 2022.1 changes

@@ -2,6 +2,12 @@
 Changelog for package acceleration_firmware_kv260
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+1.1.1 (2022-11-09)
+-------------------
+* Release v1.1.1
+* Add Vitis platform files for KV260
+* Add empty data folder to comply with Vitis and CMake logic
+
 1.1.0 (2022-10-04)
 -------------------
 * Move to Ubuntu 22.04 as base image, adapt CMake macros
